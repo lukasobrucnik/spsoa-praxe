@@ -99,3 +99,7 @@ a screenshot celého okna (příkaz, přihlášení, výstupy) jsem přiložil k
 
 ## Repozitář
 Odkaz na tento a další úkoly z praxe: https://github.com/lukasobrucnik/spsoa-praxe
+
+## Na co jsem využil AI
+- generování tohoto readme
+- pomoc s příkazy které jsme neznal a nevěděl bych jinak jak pokračovat. Věděl jsem co chci udělat a nastavit ale nevěděl jsme jaké správné comandy použít a v jaké postoupnosti. U každého jsme si nechal v krátkosti napsat co vlastně dělá a proč ho píšu.
